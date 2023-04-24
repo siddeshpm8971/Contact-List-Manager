@@ -1,0 +1,110 @@
+{
+  "contacts": [
+    {
+      "id": "AA01",
+      "name": "Glenda Kim",
+      "company": "Cognizant",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "9845673241",
+      "photo": "https://i.pinimg.com/736x/89/90/48/899048ab0cc455154006fdb9676964b3.jpg",
+      "groupId": "4"
+    },
+    {
+      "id": "AA02",
+      "name": "Siddesh PM",
+      "company": "Deloitte",
+      "email": "siddesh@gmail.com",
+      "title": "React.JS Developer",
+      "mobile": "6362455567",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQw1Zt6hYxL0BqeYfQS04-4CxKzCLir3u26a-HyAsTTWwwyD2mRper2whQ2Urrco4PGiQ&usqp=CAU",
+      "groupId": "2"
+    },
+    {
+      "id": "AA03",
+      "name": "Shamy",
+      "company": "TCS ",
+      "email": "shamy@gmail.com",
+      "title": "Tester",
+      "mobile": "8660336252",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLkIgJuE6G1FdnabHHjzmMLYjZm-piTAajwg&usqp=CAU",
+      "groupId": "3"
+    },
+    {
+      "name": "Rudresh PP",
+      "photo": "https://toppng.com/uploads/preview/icons-logos-emojis-user-icon-png-transparent-11563566676e32kbvynug.png",
+      "mobile": "9578647322",
+      "email": "rudreshpp@gmail.com",
+      "company": "medicare",
+      "title": "Doctor",
+      "groupId": "5",
+      "id": "7DSDh5P"
+    },
+    {
+      "name": "Naveen Saggam",
+      "photo": "https://yt3.ggpht.com/rS_6wUPi0zAhXnYr4isCpMpy_oa2gIeF1Cq2C1RmQMxXGfVHT8dwT3NT7KTWuWZRoYciI34qgQ=s176-c-k-c0x00ffffff-no-rj",
+      "mobile": "9876451234",
+      "email": "naveen@gmail.com",
+      "company": "Ui Brains Technologies",
+      "title": "SR. Web Developer",
+      "groupId": "4",
+      "id": "jzdNWTe"
+    },
+    {
+      "name": "Naresh",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQB9HZzNjwK62BVEEvSWHDzZdIQHcsu8qoaxj1ochXZuZkqgfdz6txVvaNmkz_OAY6kOE&usqp=CAU",
+      "mobile": "9765345728",
+      "email": "naresh@gmail.com",
+      "company": "ABC Technologies",
+      "title": "Teacher",
+      "groupId": "5",
+      "id": "9CiudG7"
+    },
+    {
+      "name": "Kartik",
+      "photo": "https://i.pinimg.com/736x/89/90/48/899048ab0cc455154006fdb9676964b3.jpg",
+      "mobile": "4536728339",
+      "email": "kartik@gmail.com",
+      "company": "Global Logic",
+      "title": "React Developer",
+      "groupId": "2",
+      "id": "_2C92dl"
+    },
+    {
+      "name": "Boodi Gouda",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHzlxPywOzp37mO-O_bs2XLNYANa3GMktc_Y6JcSUsept0imR_zYUxSuJNTL0CL0LxR40&usqp=CAU",
+      "email": "boodi@gmail.com",
+      "mobile": "9873564787",
+      "company": "Global Logic",
+      "title": "SR.Software Developer",
+      "groupId": "2",
+      "id": "FknHvVp"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
