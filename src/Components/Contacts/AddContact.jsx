@@ -18,8 +18,7 @@ const AddContact = () => {
             groupId:''
         },
         groups:[],
-        errorMsg:'',
-        hello:""
+        errorMsg:''
     });
 
     useEffect(async()=>{
